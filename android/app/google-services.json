@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "190101708989",
+    "project_id": "health-helper-404e6",
+    "storage_bucket": "health-helper-404e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190101708989:android:9ce01d308732b10c2d57d4",
+        "android_client_info": {
+          "package_name": "com.johnxu.healthhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190101708989-b49itjeir2lj0f9e2jehq5tffbkqmcfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnxu.healthhelper",
+            "certificate_hash": "eaa0afc4f1f6c61857d8f0c05f4e87a5525acf15"
+          }
+        },
+        {
+          "client_id": "190101708989-65r3atb9bfbl9qmc64pfh42avq4k60ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbNGnMycpjlE9Ne3sPZoo2qCpnwVoX0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190101708989-65r3atb9bfbl9qmc64pfh42avq4k60ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190101708989-a4slha72fvb7curvkv0kk6kf2ckvavj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.health-helper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
